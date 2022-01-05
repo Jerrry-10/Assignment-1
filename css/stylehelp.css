@@ -23,3 +23,20 @@ h1{
   text-align: center;
   line-height: 1.2;
 }
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  line-height: 1.2;
+  padding-bottom: 20px;
+}
+span{
+  text-align: center;
+  
+  display:block;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
