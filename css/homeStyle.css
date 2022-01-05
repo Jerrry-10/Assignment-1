@@ -5,6 +5,14 @@ ul {
     overflow: hidden;
     background-color: #333;
   }
+
+  header {
+<<<<<<< HEAD
+    background-color: rgb(173, 216, 230);
+=======
+    background-color: lightblue;
+>>>>>>> a32c3fb896516578f1badf98c84ebe56776f9c03
+  }
   
   li {
     float: left;
